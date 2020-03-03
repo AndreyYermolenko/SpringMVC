@@ -23,6 +23,7 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-web:5.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.freemarker:freemarker:2.3.23" />
         </element>
       </element>
       <element id="directory" name="META-INF">
