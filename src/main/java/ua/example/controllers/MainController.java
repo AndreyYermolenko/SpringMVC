@@ -1,6 +1,5 @@
 package ua.example.controllers;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
@@ -10,19 +9,19 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import ua.example.dao.UserDAO;
 import ua.example.models.User;
+import ua.example.util.UserValidator;
 
 import javax.validation.Valid;
-import java.util.ArrayList;
-import java.util.List;
 
 @Controller
 public class MainController {
-    //private List<User> users = new ArrayList<>();
 
     private final UserDAO userDAO;
+    private final UserValidator userValidator;
 
-    public MainController(UserDAO userDAO) {
+    public MainController(UserDAO userDAO,  UserValidator userValidator) {
         this.userDAO = userDAO;
+        this.userValidator = userValidator;
     }
 
     @GetMapping("/hello")
@@ -53,10 +52,11 @@ public class MainController {
 
     @PostMapping("/users/new")
     public String signUp(@ModelAttribute @Valid User user, BindingResult result) {
+        userValidator.validate(user, result);
         if (result.hasErrors()) {
             return "sign_up";
         }
-        //users.add(user);
+        userDAO.add(user);
         return "redirect:/users";
     }
 
