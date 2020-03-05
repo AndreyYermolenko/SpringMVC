@@ -1,4 +1,4 @@
-.gitignore
 .idea
 target
+.gitignore
 SpringMVC.iml

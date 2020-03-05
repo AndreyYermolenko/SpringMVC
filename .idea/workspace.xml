@@ -6,76 +6,55 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="935657d4-acd0-4f72-9105-c7534abcaa4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/example/dao/UserDAOJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/example/dao/UserDAOJdbcTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/persistence-config.xml" afterDir="false" />
+    <list default="true" id="0b96c34f-f6da-4ef9-ad7f-f62a46b82ef8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SpringMVC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/example/controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/example/controllers/MainController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/example/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/example/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/example/dao/UserDAOJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/example/dao/UserDAOJdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/example/dao/UserDAOJdbcTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/example/dao/UserDAOJdbcTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/example/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/example/models/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/example/util/UserValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/example/util/UserValidator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/persistence.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/persistence.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/META-INF/SpringMVC.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/WEB-INF/templates/ftl/bye.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/WEB-INF/templates/ftl/sign_up.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/WEB-INF/templates/ftl/users.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/WEB-INF/templates/jsp/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/WEB-INF/web.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/persistence.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/persistence.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/ua/example/controllers/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/ua/example/controllers/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/ua/example/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/ua/example/dao/UserDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/ua/example/util/UserValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/classes/ua/example/util/UserValidator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/templates/ftl/bye.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/templates/ftl/bye.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/templates/ftl/sign_up.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/templates/ftl/sign_up.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/templates/ftl/users.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/templates/ftl/users.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/templates/jsp/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/templates/jsp/hello.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/SpringMVC.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/templates/ftl/bye.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/templates/ftl/sign_up.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/templates/ftl/users.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/templates/jsp/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WEB-INF/web.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/persistence.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/persistence.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/example/controllers/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/example/controllers/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/example/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/example/dao/UserDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/example/util/UserValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/example/util/UserValidator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/persistence-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/persistence-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/templates/ftl/bye.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/ftl/bye.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/templates/ftl/sign_up.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/ftl/sign_up.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/templates/ftl/users.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/templates/ftl/users.ftl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="STUDENT: schema" type="3abd1b6a:OraImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="STUDENT: schema" type="3abd1b6a:OraImplModel$Schema" />
-        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-    </expand>
-    <select />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="SpringMVC" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="spring-beans.schema" />
-        <option value="Interface" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -87,44 +66,17 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="1YWd3vqzRs1NadK86JUoT60b6IH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1YheciraqELvOETdpJiXnIgrK7A" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="oracle" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="H:\JavaProjects\SpringMVC\web\WEB-INF\templates" />
-      <recent name="H:\JavaProjects\SpringMVC\web\WEB-INF\templates\ftl" />
-      <recent name="H:\JavaProjects\SpringMVC\web\WEB-INF\jsp" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="ua.example.dao" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\JavaProjects\SpringMVC\web\WEB-INF\lib" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 8.5.50" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.50" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
@@ -138,7 +90,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SpringMVC" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SpringMVC_2" />
         <option name="HTTP_PORT" value="8088" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
@@ -147,7 +99,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="49481" />
+        <option name="DEBUG_PORT" value="51669" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -206,7 +158,6 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.016570007" />
           <treeState>
             <expand>
               <path>
@@ -216,11 +167,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -234,22 +181,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="935657d4-acd0-4f72-9105-c7534abcaa4b" name="Default Changelist" comment="" />
-      <created>1583062088231</created>
+      <changelist id="0b96c34f-f6da-4ef9-ad7f-f62a46b82ef8" name="Default Changelist" comment="" />
+      <created>1583399334274</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1583062088231</updated>
-      <workItem from="1583062089849" duration="1387000" />
-      <workItem from="1583073654330" duration="4933000" />
-      <workItem from="1583152137171" duration="1622000" />
-      <workItem from="1583182906124" duration="2186000" />
-      <workItem from="1583223020078" duration="4474000" />
-      <workItem from="1583240292579" duration="6820000" />
-      <workItem from="1583259085003" duration="7254000" />
-      <workItem from="1583311651947" duration="2213000" />
-      <workItem from="1583327576994" duration="1199000" />
-      <workItem from="1583353178534" duration="2421000" />
-      <workItem from="1583391661140" duration="4114000" />
+      <updated>1583399334274</updated>
+      <workItem from="1583399336374" duration="138000" />
     </task>
     <servers />
   </component>
@@ -257,113 +194,57 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="232" y="149" key="#Project_Structure" timestamp="1583152205617">
+    <state x="94" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583399473689">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="232" y="149" key="#Project_Structure/0.0.1280.984@0.0.1280.984" timestamp="1583152205617" />
-    <state x="107" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583266485497">
+    <state x="94" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1583399473689" />
+    <state width="844" height="259" key="GridCell.Tab.0.bottom" timestamp="1583399469854">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="107" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1583266485497" />
-    <state x="402" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583393219536">
+    <state width="844" height="259" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1583399469854" />
+    <state width="844" height="259" key="GridCell.Tab.0.center" timestamp="1583399469854">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="402" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1583393219536" />
-    <state x="445" y="200" key="#com.intellij.ide.util.MemberChooser" timestamp="1583311988964">
+    <state width="844" height="259" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1583399469854" />
+    <state width="844" height="259" key="GridCell.Tab.0.left" timestamp="1583399469854">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="445" y="200" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1583311988964" />
-    <state x="270" y="180" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583243333504">
+    <state width="844" height="259" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1583399469854" />
+    <state width="844" height="259" key="GridCell.Tab.0.right" timestamp="1583399469854">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="270" y="180" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.984@0.0.1280.984" timestamp="1583243333504" />
-    <state x="232" y="149" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1583074672509">
+    <state width="844" height="259" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1583399469854" />
+    <state width="844" height="259" key="GridCell.Tab.1.bottom" timestamp="1583399469855">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="232" y="149" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1280.984@0.0.1280.984" timestamp="1583074672509" />
-    <state x="439" y="397" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1583242860094">
+    <state width="844" height="259" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1583399469855" />
+    <state width="844" height="259" key="GridCell.Tab.1.center" timestamp="1583399469854">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="439" y="397" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1280.984@0.0.1280.984" timestamp="1583242860094" />
-    <state x="345" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583355510117">
+    <state width="844" height="259" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1583399469854" />
+    <state width="844" height="259" key="GridCell.Tab.1.left" timestamp="1583399469854">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="345" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.984@0.0.1280.984" timestamp="1583355510117" />
-    <state x="420" y="246" key="FileChooserDialogImpl" timestamp="1583242436398">
+    <state width="844" height="259" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1583399469854" />
+    <state width="844" height="259" key="GridCell.Tab.1.right" timestamp="1583399469854">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="420" y="246" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1583242436398" />
-    <state width="1186" height="329" key="GridCell.Tab.0.bottom" timestamp="1583395271165">
+    <state width="844" height="259" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1583399469854" />
+    <state width="844" height="259" key="GridCell.Tab.2.bottom" timestamp="1583399469855">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1186" height="329" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1583395271164" />
-    <state width="1186" height="329" key="GridCell.Tab.0.center" timestamp="1583395271164">
+    <state width="844" height="259" key="GridCell.Tab.2.bottom/0.0.1280.984@0.0.1280.984" timestamp="1583399469855" />
+    <state width="844" height="259" key="GridCell.Tab.2.center" timestamp="1583399469855">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1186" height="329" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1583395271164" />
-    <state width="1186" height="329" key="GridCell.Tab.0.left" timestamp="1583395271164">
+    <state width="844" height="259" key="GridCell.Tab.2.center/0.0.1280.984@0.0.1280.984" timestamp="1583399469855" />
+    <state width="844" height="259" key="GridCell.Tab.2.left" timestamp="1583399469855">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1186" height="329" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1583395271164" />
-    <state width="1186" height="329" key="GridCell.Tab.0.right" timestamp="1583395271164">
+    <state width="844" height="259" key="GridCell.Tab.2.left/0.0.1280.984@0.0.1280.984" timestamp="1583399469855" />
+    <state width="844" height="259" key="GridCell.Tab.2.right" timestamp="1583399469855">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1186" height="329" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1583395271164" />
-    <state width="1186" height="329" key="GridCell.Tab.1.bottom" timestamp="1583395228649">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1186" height="329" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1583395228649" />
-    <state width="1186" height="329" key="GridCell.Tab.1.center" timestamp="1583395228649">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1186" height="329" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1583395228649" />
-    <state width="1186" height="329" key="GridCell.Tab.1.left" timestamp="1583395228648">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1186" height="329" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1583395228648" />
-    <state width="1186" height="329" key="GridCell.Tab.1.right" timestamp="1583395228649">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1186" height="329" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1583395228649" />
-    <state width="1186" height="329" key="GridCell.Tab.2.bottom" timestamp="1583395228649">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1186" height="329" key="GridCell.Tab.2.bottom/0.0.1280.984@0.0.1280.984" timestamp="1583395228649" />
-    <state width="1186" height="329" key="GridCell.Tab.2.center" timestamp="1583395228649">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1186" height="329" key="GridCell.Tab.2.center/0.0.1280.984@0.0.1280.984" timestamp="1583395228649" />
-    <state width="1186" height="329" key="GridCell.Tab.2.left" timestamp="1583395228649">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1186" height="329" key="GridCell.Tab.2.left/0.0.1280.984@0.0.1280.984" timestamp="1583395228649" />
-    <state width="1186" height="329" key="GridCell.Tab.2.right" timestamp="1583395228649">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1186" height="329" key="GridCell.Tab.2.right/0.0.1280.984@0.0.1280.984" timestamp="1583395228649" />
-    <state width="1186" height="329" key="GridCell.Tab.3.bottom" timestamp="1583269992625">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1186" height="329" key="GridCell.Tab.3.bottom/0.0.1280.984@0.0.1280.984" timestamp="1583269992625" />
-    <state width="1186" height="329" key="GridCell.Tab.3.center" timestamp="1583269992624">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1186" height="329" key="GridCell.Tab.3.center/0.0.1280.984@0.0.1280.984" timestamp="1583269992624" />
-    <state width="1186" height="329" key="GridCell.Tab.3.left" timestamp="1583269992624">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1186" height="329" key="GridCell.Tab.3.left/0.0.1280.984@0.0.1280.984" timestamp="1583269992624" />
-    <state width="1186" height="329" key="GridCell.Tab.3.right" timestamp="1583269992624">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1186" height="329" key="GridCell.Tab.3.right/0.0.1280.984@0.0.1280.984" timestamp="1583269992624" />
-    <state x="120" y="65" key="SettingsEditor" timestamp="1583243116301">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state x="120" y="65" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1583243116301" />
-    <state x="22" y="111" key="new project wizard" timestamp="1583242442020">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state x="22" y="111" key="new project wizard/0.0.1280.984@0.0.1280.984" timestamp="1583242442020" />
+    <state width="844" height="259" key="GridCell.Tab.2.right/0.0.1280.984@0.0.1280.984" timestamp="1583399469855" />
   </component>
 </project>
