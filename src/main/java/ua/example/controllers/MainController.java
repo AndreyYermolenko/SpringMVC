@@ -19,9 +19,15 @@ public class MainController {
     private final UserDAO userDAO;
     private final UserValidator userValidator;
 
-    public MainController(UserDAO userDAO,  UserValidator userValidator) {
+    public MainController(UserDAO userDAO, UserValidator userValidator) {
         this.userDAO = userDAO;
         this.userValidator = userValidator;
+    }
+
+    @GetMapping("/")
+    public String startPage(Model model) {
+        model.addAttribute("users", userDAO.getAll());
+        return "redirect:users";
     }
 
     @GetMapping("/hello")

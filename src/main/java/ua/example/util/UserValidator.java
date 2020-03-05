@@ -1,6 +1,5 @@
 package ua.example.util;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;
 import org.springframework.validation.Validator;
@@ -10,8 +9,11 @@ import ua.example.models.User;
 @Component
 public class UserValidator implements Validator {
 
-    @Autowired
-    private UserDAO userDAO;
+    private final UserDAO userDAO;
+
+    public UserValidator(UserDAO userDAO) {
+        this.userDAO = userDAO;
+    }
 
     @Override
     public boolean supports(Class<?> aClass) {
