@@ -43,4 +43,3 @@ public class HibernateUserDAO implements UserDAO {
         currentSession().save(user);
     }
 }
-
