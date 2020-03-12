@@ -71,14 +71,6 @@
         </dependency>
 
         <dependency>
-            <groupId>com.oracle</groupId>
-            <artifactId>ojdbc</artifactId>
-            <version>8</version>
-            <scope>system</scope>
-            <systemPath>c:/ojdbc7.jar</systemPath>
-        </dependency>
-
-        <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
             <version>42.2.11</version>
