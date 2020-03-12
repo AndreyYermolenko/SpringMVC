@@ -11,6 +11,13 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringMVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/example/dao/impl/HibernateUserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/example/dao/impl/HibernateUserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/templates/ftl/bye.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/templates/ftl/bye.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/templates/ftl/sign_up.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/templates/ftl/sign_up.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/templates/ftl/users.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/templates/ftl/users.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/templates/jsp/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/templates/jsp/hello.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +204,7 @@
       <workItem from="1583957963762" duration="3236000" />
       <workItem from="1583967605491" duration="164000" />
       <workItem from="1584023112650" duration="6566000" />
-      <workItem from="1584036922797" duration="287000" />
+      <workItem from="1584036922797" duration="596000" />
     </task>
     <servers />
   </component>
