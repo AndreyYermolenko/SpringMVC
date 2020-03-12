@@ -1,7 +1,7 @@
-package ua.example.dao;
+package ua.example.dao.impl;
 
-import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
+import ua.example.dao.UserDAO;
 import ua.example.models.User;
 
 import java.io.IOException;
@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Properties;
 
 @Component
-public class UserDAOJdbc implements UserDAO {
+public class JdbcApiUserDAO implements UserDAO {
 
     private static Connection connection;
 
@@ -21,7 +21,7 @@ public class UserDAOJdbc implements UserDAO {
         String username = null;
         String password = null;
 
-        try(InputStream in = UserDAOJdbc.class
+        try(InputStream in = JdbcApiUserDAO.class
                 .getClassLoader().getResourceAsStream("persistence.properties")) {
             Properties properties = new Properties();
             properties.load(in);
