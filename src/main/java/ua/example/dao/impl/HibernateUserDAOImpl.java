@@ -3,20 +3,18 @@ package ua.example.dao.impl;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.query.Query;
-import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 import ua.example.dao.UserDAO;
-import ua.example.models.User;
+import ua.example.model.User;
 
 import java.util.List;
 
-@Primary
 @Component
-public class HibernateUserDAO implements UserDAO {
+public class HibernateUserDAOImpl implements UserDAO {
 
     private final SessionFactory sessionFactory;
 
-    public HibernateUserDAO(SessionFactory sessionFactory) {
+    public HibernateUserDAOImpl(SessionFactory sessionFactory) {
         this.sessionFactory = sessionFactory;
     }
 

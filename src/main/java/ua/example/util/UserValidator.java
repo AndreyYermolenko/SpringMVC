@@ -4,7 +4,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;
 import org.springframework.validation.Validator;
 import ua.example.dao.UserDAO;
-import ua.example.models.User;
+import ua.example.model.User;
 
 @Component
 public class UserValidator implements Validator {

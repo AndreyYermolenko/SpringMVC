@@ -1,20 +1,19 @@
 package ua.example.dao.impl;
 
-import org.springframework.context.annotation.Primary;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Component;
 import ua.example.dao.UserDAO;
-import ua.example.models.User;
+import ua.example.model.User;
 
 import java.util.List;
 
 @Component
-public class JdbcTemplateUserDAO implements UserDAO {
+public class JdbcTemplateUserDAOImpl implements UserDAO {
 
     private final JdbcTemplate jdbcTemplate;
 
-    public JdbcTemplateUserDAO(JdbcTemplate jdbcTemplate) {
+    public JdbcTemplateUserDAOImpl(JdbcTemplate jdbcTemplate) {
         this.jdbcTemplate = jdbcTemplate;
     }
 

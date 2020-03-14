@@ -1,4 +1,4 @@
-package ua.example.models;
+package ua.example.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

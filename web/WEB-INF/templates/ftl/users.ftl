@@ -3,6 +3,9 @@
         <title>Users</title>
     </head>
     <body>
+
+    <div><a href="/users/new">Add new user</a></div> <br/>
+
     <#if users?has_content>
         <ul>
             <#list users as user>

@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import ua.example.dao.UserDAO;
-import ua.example.models.User;
+import ua.example.model.User;
 import ua.example.util.UserValidator;
 
 import javax.validation.Valid;
